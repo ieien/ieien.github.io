@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: ieien's blog
+title: IEIEN ieien
 subtitle: 艾恩的博客小站
-description: 没有酒，也没有故事
+description: 就当众人皆醒我独醉吧
 author: ieien
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -140,7 +140,7 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
-  sitemap: sitemap
+  #sitemap: sitemap
   commonweal: heartbeat
 
 
