@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: $ ❤ ieien
+title: ❤ ieien
 subtitle: 艾恩的博客小站
-description: 就当众人皆醒我独醉吧
+description: Love you three thousand times
 author: ieien
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -226,18 +226,17 @@ social:
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  enable: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Gmail: gmail
   Twitter: twitter
   Weibo: weibo
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar2.jpeg
+avatar: /assets/images/avatar.webp
 
 
 # Table Of Contents in the Sidebar
@@ -635,10 +634,10 @@ pace: ture
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
-three_waves: false
+three_waves: true
 
 # canvas_lines
 canvas_lines: false
