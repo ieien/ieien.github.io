@@ -314,14 +314,14 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: true
+  updated_at: false
   categories: true
 
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: true
-  min2read: true
+  wordcount: false
+  min2read: false
   separated_meta: true
 
 # Wechat Subscriber
@@ -388,7 +388,7 @@ disqus:
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
-  hide: true
+  hide: false
 
 # <wildfire>
 wildfire:
