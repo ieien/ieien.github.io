@@ -285,12 +285,12 @@ sidebar:
 
 
 # Blog rolls
-links_title: Favorate  Links
+links_title: Friend Links
 #links_layout: block
 links_layout: inline
 links:
-  google_snstrnygfsn: https://google.com
-  bing_sfbsdnbs: https://bing.com
+  google: https://google.com
+  bing: https://bing.com
   #Title: http://example.com/
 
 
