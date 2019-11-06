@@ -8,8 +8,11 @@ tags: 武功山 旅游攻略
 
 &nbsp;&nbsp;&nbsp;&nbsp;关于去江西武功山的前期准备和登山过程，在此分享个人经历，仅供参考。<br>
 &nbsp;&nbsp;&nbsp;&nbsp;时间：2019年10月中<br>
----
+----
+
+
 #### 装备
+
 * 食物和水<br>
 &nbsp;&nbsp;&nbsp;&nbsp;带上足够的食物，尽量不要全是面包之类的干粮，可以准备一份自热米饭，晚上吃，因为山顶很冷，登山带两瓶水就够了，山顶有热水。
 * 衣服<br>
@@ -20,7 +23,11 @@ tags: 武功山 旅游攻略
 &nbsp;&nbsp;&nbsp;&nbsp;在山脚的游客中心很多店都可以租帐篷,价格看季节、节日和人数，我当时租的4人帐篷100元，山顶也有，不过价格肯定高。
 * 学生证<br>
 &nbsp;&nbsp;&nbsp;&nbsp;如果有带上，购票半价<br>
+
+
+
 #### 登山
+
 * 公交<br>
 &nbsp;&nbsp;&nbsp;&nbsp;从火车站或高铁站到武功山都有公交，本人萍乡站下，坐公交22，当然也可以坐私家车，价格会贵两三块。但是从武功山回来只能坐公交，
 土豪可以叫出租车。
@@ -37,5 +44,14 @@ tags: 武功山 旅游攻略
 &nbsp;&nbsp;&nbsp;&nbsp;除了看日出，山顶还有玻璃栈道。（恐高慎入）
 ![玻璃栈道](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/bolizhandao1.jpg "玻璃栈道")
 ![玻璃栈道](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/bolizhandao2.jpg "玻璃栈道")<br>
+
+
 #### 最后
+
 &nbsp;&nbsp;&nbsp;&nbsp;出发吧！！！
+
+    int a=1
+    if(a>0)
+    {
+        return 0;
+    }
