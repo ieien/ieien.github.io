@@ -290,6 +290,7 @@ links_title: Links
 links_layout: inline
 links:
   google: https://google.com
+  bing: https://bing.com
   #Title: http://example.com/
 
 
