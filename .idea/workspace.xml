@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511d216b-8d59-4c0d-9841-3c6b74847b7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-10-15-wx-request.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-15-wx-request.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +75,7 @@
       <workItem from="1570351334042" duration="616000" />
       <workItem from="1571106393845" duration="4099000" />
       <workItem from="1572961807516" duration="394000" />
-      <workItem from="1573031144519" duration="4077000" />
+      <workItem from="1573031144519" duration="4208000" />
     </task>
     <servers />
   </component>
