@@ -5,7 +5,7 @@
 
 # Site
 title: ❤ ieien
-subtitle: 艾恩的博客小站
+subtitle: 伊恩的博客小站
 description: Love you three thousand times
 author: ieien
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -105,7 +105,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
