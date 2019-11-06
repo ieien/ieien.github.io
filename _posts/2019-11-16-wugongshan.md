@@ -6,9 +6,10 @@ categories: 旅游
 tags: 武功山 旅游攻略
 ---
 
-######&nbsp;&nbsp;&nbsp;&nbsp;关于去江西武功山的前期准备和登山过程，在此分享个人经历，仅供参考。
-######&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年10月中
-***
+&nbsp;&nbsp;&nbsp;&nbsp;关于去江西武功山的前期准备和登山过程，在此分享个人经历，仅供参考。<br>
+&nbsp;&nbsp;&nbsp;&nbsp;时间：2019年10月中
+---
+---
 #### 装备
 * 食物和水<br>
 &nbsp;&nbsp;&nbsp;&nbsp;带上足够的食物，尽量不要全是面包之类的干粮，可以准备一份自热米饭，晚上吃，因为山顶很冷，登山带两瓶水就够了，山顶有热水。
@@ -26,16 +27,16 @@ tags: 武功山 旅游攻略
 土豪可以叫出租车。
 * 路线<br>
 &nbsp;&nbsp;&nbsp;&nbsp;先来看下路线图吧
-![登山路线图](image/wugongshan1.jpg "登山路线图")
+![登山路线图](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/wugongshan1.jpg "登山路线图")
 &nbsp;&nbsp;&nbsp;&nbsp;路线很多条，但终点只有一个——最高点，金顶（海拔1918.3米），扎帐篷首选之地。全程徒步登山最少3个小时，怕累可以坐索道（60￥），建议15：00前开始登山，
 ，这样就不用走夜路。本人当时走了一个半小时夜路，不过走夜路也没什么。
 * 风景<br>
 &nbsp;&nbsp;&nbsp;&nbsp;山顶的风景很美，清晨的日出就是此行的意义所在。（因为在云层之上，阳光很刺眼，可以带个墨镜。）
-![登山路线图](image/richu1.jpg "日出")
-![金顶](image/jinding.jpg "金顶")
-![金顶的风景](image/wugongshan2.jpg)
+![登山路线图](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/richu1.jpg "日出")
+![金顶](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/jinding.jpg "金顶")
+![金顶的风景](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/wugongshan2.jpg)
 &nbsp;&nbsp;&nbsp;&nbsp;除了看日出，山顶还有玻璃栈道。（恐高慎入）
-![玻璃栈道](image/bolizhandao1.jpg "玻璃栈道")
-![玻璃栈道](image/bolizhandao2.jpg "玻璃栈道")
+![玻璃栈道](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/bolizhandao1.jpg "玻璃栈道")
+![玻璃栈道](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/bolizhandao2.jpg "玻璃栈道")
 #### 最后
 &nbsp;&nbsp;&nbsp;&nbsp;出发吧！！！
