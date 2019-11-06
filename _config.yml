@@ -119,9 +119,9 @@ index_with_subtitle: false
 menu:
   home: /
   categories: /categories/
-  about: /about/
   archives: /archives/
   tags: /tags/
+  about: /about/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -254,7 +254,7 @@ toc:
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
-#creative_commons: by-nc-sa
+creative_commons: by-nc-sa
 #creative_commons:
 
 
@@ -278,17 +278,18 @@ sidebar:
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: false
+  b2t: true
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  scrollpercent: true
 
 
 # Blog rolls
-#links_title: Links
-#links_layout: block
-#links_layout: inline
-#links:
+links_title: Links
+links_layout: block
+links_layout: inline
+links:
+  google: https://google.com
   #Title: http://example.com/
 
 

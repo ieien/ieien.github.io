@@ -50,8 +50,4 @@ tags: 武功山 旅游攻略
 
 &nbsp;&nbsp;&nbsp;&nbsp;出发吧！！！
 
-    int a=1
-    if(a>0)
-    {
-        return 0;
-    }
+  
