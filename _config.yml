@@ -6,7 +6,8 @@
 # Site
 title: ❤ ieien
 subtitle: 艾恩的博客小站
-description: Love you three thousand times.
+description: Love you three thousand times
+#signature: Love you three thousand times
 author: ieien
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -121,8 +122,8 @@ menu:
   categories: /categories/
   archives: /archives/
   tags: /tags/
+  sitemap: /sitemap.xml
   about: /about/
-  #sitemap: /sitemap.xml
   #commonweal: /404.html
 
 
