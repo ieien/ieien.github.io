@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511d216b-8d59-4c0d-9841-3c6b74847b7d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/languages/zh-Hans.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/languages/zh-Hans.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-12-24-link-post.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2013-12-24-link-post.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-10-3-first.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-3-first.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-11-16-wugongshan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-16-wugongshan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/bolizhandao1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/bolizhandao1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/bolizhandao2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/bolizhandao2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/jinding.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/jinding.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/richu1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/richu1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/rukou.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/shangshan1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/shangshan1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/shanjiao1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/shanjiao1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/shanjiao2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/shanjiao2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/shanjiao3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/shanjiao3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/shanjiao4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/shanjiao4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/wugongshan1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/wugongshan1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/wugongshan2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/wugongshan2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/xiashan1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/xiashan1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/xiashan2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/xiashan2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/image/xiashan3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/post_image/xiashan3.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -103,7 +91,7 @@
       <workItem from="1573031144519" duration="13445000" />
       <workItem from="1573054109685" duration="10561000" />
       <workItem from="1573094981974" duration="4896000" />
-      <workItem from="1573105784115" duration="4475000" />
+      <workItem from="1573105784115" duration="6564000" />
     </task>
     <servers />
   </component>
