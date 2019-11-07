@@ -1,6 +1,7 @@
 ---
 title: 武功山旅游攻略
 date: 2019-11-6
+update: 2019-11-7
 description: 学生党武功山旅游攻略，个人经历分享，仅供参考
 categories: 旅游
 tags: 武功山 旅游攻略
