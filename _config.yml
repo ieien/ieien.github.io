@@ -80,7 +80,7 @@ plugins:
 favicon: /assets/images/favicon.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "博客,旅游,学习笔记分享"
+keywords: "博客,旅游,学习笔记分享,前端,后端"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
