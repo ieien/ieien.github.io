@@ -6,8 +6,8 @@
 # Site
 title: ❤ ieien
 subtitle: 艾恩的博客小站
-description: Love you three thousand times
-#signature: Love you three thousand times
+description: 艾恩的填坑之路，从前端到后端，个人学习笔记分享。还有旅游经历，大好河山也不能错过，最后，爱你三千次。
+signature: Love you three thousand times
 author: ieien
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -80,7 +80,7 @@ plugins:
 favicon: /assets/images/favicon.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll,NexT,ieien,blog"
+keywords: "博客,旅游,学习笔记分享"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -141,7 +141,7 @@ menu_icons:
   schedule: calendar
   tags: tags
   archives: archive
-  #sitemap: sitemap
+  sitemap: sitemap
   commonweal: heartbeat
 
 
