@@ -34,17 +34,17 @@ tags: 武功山 旅游攻略
 土豪可以叫出租车。
 * 路线<br>
 &nbsp;&nbsp;&nbsp;&nbsp;先来看下路线图吧
-![登山路线图](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/wugongshan1.jpg "登山路线图")
+![登山路线图](/post_image/wugongshan1.jpg "登山路线图")
 &nbsp;&nbsp;&nbsp;&nbsp;路线很多条，但终点只有一个——最高点，金顶（海拔1918.3米），扎帐篷首选之地。全程徒步登山最少3个小时，怕累可以坐索道（60￥），建议15：00前开始登山，
 ，这样就不用走夜路。本人当时走了一个半小时夜路，不过走夜路也没什么。
 * 风景<br>
 &nbsp;&nbsp;&nbsp;&nbsp;山顶的风景很美，清晨的日出就是此行的意义所在。（因为在云层之上，阳光很刺眼，可以带个墨镜。）
-![登山路线图](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/richu1.jpg "日出")
-![金顶](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/jinding.jpg "金顶")
-![金顶的风景](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/wugongshan2.jpg)<br>
+![登山路线图](/post_image/richu1.jpg "日出")
+![金顶](/post_image/jinding.jpg "金顶")
+![金顶的风景](/post_image/wugongshan2.jpg)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;除了看日出，山顶还有玻璃栈道。（恐高慎入）
-![玻璃栈道](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/bolizhandao1.jpg "玻璃栈道")
-![玻璃栈道](https://raw.githubusercontent.com/ieien/ieien.github.io/master/_posts/image/bolizhandao2.jpg "玻璃栈道")<br>
+![玻璃栈道](/post_image/bolizhandao1.jpg "玻璃栈道")
+![玻璃栈道](/post_image/bolizhandao2.jpg "玻璃栈道")<br>
 
 
 #### 最后
