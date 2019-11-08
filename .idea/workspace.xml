@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="511d216b-8d59-4c0d-9841-3c6b74847b7d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-11-7-vhost.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-7-vhost.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-11-8-httpd.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-11-8-httpd.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,7 +88,7 @@
       <workItem from="1573054109685" duration="10561000" />
       <workItem from="1573094981974" duration="4896000" />
       <workItem from="1573105784115" duration="14515000" />
-      <workItem from="1573179371115" duration="10985000" />
+      <workItem from="1573179371115" duration="11239000" />
     </task>
     <servers />
   </component>
