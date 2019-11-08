@@ -445,7 +445,7 @@ gitalk:
   enable: true
   clientID: 915695f744787f3249bd
   clientSecret: 2546d18be673850db6b38467a2914a0981f63e63
-  repo: ieien.me
+  repo: https://ieien.me
   owner: ieien
   admin: ieien
 
