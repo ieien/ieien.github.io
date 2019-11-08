@@ -267,7 +267,8 @@
       </header>
     {% endunless %}
 
-    <div class="post-body{% if site.han %} han-init-context{% endif %} " itemprop="articleBody">
+<!--    在此加入了style="text-align: center"属性，用于在Pisces主题中将post.description居中对齐-->
+    <div class="post-body{% if site.han %} han-init-context{% endif %} " itemprop="articleBody" style="text-align: center">
 
       {% comment %} Gallery support {% endcomment %}
       {% if post.photos and post.photos.size > 0 %}

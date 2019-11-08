@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="511d216b-8d59-4c0d-9841-3c6b74847b7d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_common/components/post/post-expand.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_common/components/post/post-expand.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/_macro/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/_macro/post.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +91,7 @@
       <workItem from="1573094981974" duration="4896000" />
       <workItem from="1573105784115" duration="14515000" />
       <workItem from="1573179371115" duration="12152000" />
-      <workItem from="1573199317309" duration="5812000" />
+      <workItem from="1573199317309" duration="6493000" />
     </task>
     <servers />
   </component>
