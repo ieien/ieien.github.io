@@ -80,7 +80,7 @@ plugins:
 favicon: /assets/images/favicon.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "博客,旅游,学习笔记分享,前端,后端"
+keywords: "旅游,学习笔记分享,前端,后端,linux,windows"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -360,7 +360,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night eighties
+highlight_theme: night bright
 
 
 # ---------------------------------------------------------------
