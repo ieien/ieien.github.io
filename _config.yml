@@ -6,7 +6,7 @@
 # Site
 title: ieienPark
 subtitle: Notes of Life
-description: 艾恩的填坑之路，从前端到后端，个人学习笔记分享。还有旅游经历，大好河山也不能错过，最后，爱你三千次。
+description: 伊恩公园，伊恩的建设之路，从前端到后端，个人学习笔记分享。还有旅游经历，大好河山也不能错过。最后，爱你三千次。
 signature: Love you three thousand times
 author: ieien
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -80,7 +80,7 @@ plugins:
 favicon: /assets/images/favicon.png
 
 # Set default keywords (Use a comma to separate)
-keywords: "旅游,学习笔记分享,前端,后端,linux,windows"
+keywords: "旅游,学习笔记分享,前端,后端,linux,windows,服务器"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
