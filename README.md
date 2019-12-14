@@ -1,15 +1,16 @@
 # ieienPark
-ieien.github.io
+[www.ieien.me](www.ieien.me)<br>
+[ieien.github.io](ieien.github.io)
 <br><br><br>
 
-BLOG   OF   IEIEN 
+伊恩的博客 
 --------
 --------
 
 <br><br><br>
-theme source : https://github.com/Simpleyyt/jekyll-theme-next.git
+主题源自 : [https://github.com/Simpleyyt/jekyll-theme-next.git](https://github.com/Simpleyyt/jekyll-theme-next.git)
 <br>
-revise : ieien
+更改 : ieien
 
 
 
