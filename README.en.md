@@ -1,7 +1,14 @@
 # ieienPark
+[www.ieien.me](www.ieien.me)<br>
+[ieien.github.io](ieien.github.io)
+
+<br><br><br>
 
 **ieien's blog**
+------
+------
 
-**I will be better because I never stop.**<br>
-
-Computer software worker, hobby travel, personal study notes and travel experience sharing.
+<br><br><br>
+主题源自 : [https://github.com/Simpleyyt/jekyll-theme-next.git](https://github.com/Simpleyyt/jekyll-theme-next.git)
+<br>
+更改 : ieien
