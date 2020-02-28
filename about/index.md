@@ -8,9 +8,10 @@ type: about
 
 ieien's blog
 
-## 伊恩公园-IT菜鸟的建设之路
+## 伊恩公园-iT菜鸟的建设之路
 
 ---
+
 > **此处无银三百两**  
 > **喝水不忘挖井人**  
 
@@ -20,4 +21,8 @@ ieien's blog
 
 ---
 
-> **我会更好，因为我从未停止。**
+> **我会更好，因为我从未停止。**  
+
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;小站地址 [ieien.me](https://ieien.me)
