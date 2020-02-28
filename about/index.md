@@ -21,8 +21,6 @@ ieien's blog
 
 ---
 
-> **我会更好，因为我从未停止。**  
+> **我会更好** ♥ **因为我从未停止**  
 
 ---
-
-&nbsp;&nbsp;&nbsp;&nbsp;小站地址 [ieien.me](https://ieien.me)
