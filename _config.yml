@@ -216,10 +216,10 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/ieien
-  Gmail: https://liaozw258@foxmail.com
-  Telegram: https://t.me/ieienblog
+  Gitee: https://gitee.com/ieien
+  Mail: https://liaozw258@foxmail.com
   hacpai: https://hacpai.com/member/ieien
-
+  Telegram: https://t.me/ieienblog
   #LinkLabel: Link
 
 
@@ -293,7 +293,6 @@ links_layout: inline
 links:
   google: https://google.com
   bing: https://bing.com
-  gitee: http://ieien.gitee.io
   #Title: http://example.com/
 
 
